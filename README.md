@@ -17,7 +17,4 @@ A simple CISC-121 project that sorts student scores using the Bubble Sort algori
 - **Abstraction**: Hide the algorithm details from the user, who only needs to enter numbers and select a sort order.
 - **Algorithm Design**: Follow the flow: Input → Validation → Sort → Output.
 
-### How to Run Locally
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+
